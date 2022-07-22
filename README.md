@@ -1,6 +1,6 @@
 # Python_Assistant
 Python_Assistant project is a simple Python program that take user voice as a input and try to complete.
-I name this Python Assistant as a Ashish Assistant.
+I name this Python Assistant as a Rahul's Assistant.
 This Assistant work in following section:-
 1. Send Email 
 2. Play Local Directory Music 
